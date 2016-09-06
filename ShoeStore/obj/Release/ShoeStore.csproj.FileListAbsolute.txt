@@ -1,0 +1,9 @@
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\bin\Release\ShoeStore.exe.config
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\bin\Release\ShoeStore.exe
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\bin\Release\ShoeStore.pdb
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\bin\Release\HtmlAgilityPack.dll
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\bin\Release\HtmlAgilityPack.pdb
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\bin\Release\HtmlAgilityPack.xml
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\obj\Release\ShoeStore.exe
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\obj\Release\ShoeStore.pdb
+c:\users\atucci\documents\visual studio 2015\Projects\ShoeStore\ShoeStore\obj\Release\ShoeStore.csprojResolveAssemblyReference.cache
